@@ -37,3 +37,6 @@ There are two types of properties we define
 ```jsx
 <Component someOtherProp={1} fooBar="foo"></Component>
 ```
+
+### General Naming
+Make sure you use variable names that make sense to what they actually are.
